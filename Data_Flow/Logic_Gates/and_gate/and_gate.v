@@ -1,3 +1,4 @@
+//Usman Abubakar---30/06/2026---AND GATE
 module and_gate(a,b,y);
 
 input a,b;
