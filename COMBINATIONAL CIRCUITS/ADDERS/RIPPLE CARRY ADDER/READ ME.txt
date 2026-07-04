@@ -1,0 +1,6 @@
+# 4-Bit Ripple Carry Adder using Verilog HDL
+
+Problem: Design and verify a 4-bit Ripple Carry Adder using Dataflow Modelling.
+Tool: Verilog HDL and ModelSim/QuestaSim.
+Built: Implemented cascaded Full Adders using continuous assignments and developed a testbench for validation.
+Metric: Achieved 100% functional correctness with proper carry propagation across all test cases.

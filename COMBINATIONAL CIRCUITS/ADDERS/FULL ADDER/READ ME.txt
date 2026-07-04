@@ -1,0 +1,6 @@
+# Full Adder using Dataflow Modelling
+
+This repository contains the Verilog implementation of a 1-bit Full Adder using Dataflow Modelling.
+The design uses continuous assignment (`assign`) statements to implement the Sum and Carry output logic.
+The project includes the Design Under Test (DUT) and a corresponding testbench for functional verification.
+Simulation results confirm correct operation for all possible input combinations according to the Full Adder truth table.

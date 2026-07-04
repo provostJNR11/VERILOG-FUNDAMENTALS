@@ -1,0 +1,6 @@
+# OR Gate using Verilog HDL
+
+Problem: Design and verify a 2-input OR gate using Dataflow Modelling.
+Tool: Verilog HDL and ModelSim/QuestaSim.
+Built: Implemented the OR gate logic using a continuous assignment (`assign`) statement and developed a testbench for validation.
+Metric: Achieved 100% functional correctness across all input combinations.

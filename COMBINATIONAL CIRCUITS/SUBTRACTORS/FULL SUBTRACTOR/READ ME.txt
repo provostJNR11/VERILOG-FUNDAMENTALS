@@ -1,0 +1,6 @@
+# Full Subtractor using Verilog HDL
+
+Problem: Design and verify a 1-bit Full Subtractor.
+Tool: Verilog HDL and ModelSim/QuestaSim.
+Built: Implemented the Full Subtractor logic and developed a testbench for functional verification.
+Metric: Achieved 100% functional correctness across all input combinations.
